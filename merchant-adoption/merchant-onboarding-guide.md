@@ -161,6 +161,8 @@ No. Formal registration is not required to receive Bitcoin.
 ### “What if I lose my phone?”
 Access can be recovered if the merchant still controls their email, phone number, or recovery method.
 
+Some questions come up with continued use. For deeper topics after onboarding, merchants can refer to the merchant FAQ guide.
+
 ---
 
 ## 9. Field Tips for Educators
