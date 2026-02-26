@@ -1,179 +1,143 @@
-# Bitcoin Berlín  
-## History and Philosophy  
-### Building a Circular Economy in El Salvador
+# Bitcoin Berlín Circular Economy Toolkit
 
+## What Is This?
 
-## A Circular Economy in the Mountains of El Salvador
+This repository documents the Bitcoin Berlín model: a community-driven circular economy built in a small mountain town in El Salvador.
 
-Bitcoin Berlín was born in the mountain town of Berlín with a clear vision: to build a grassroots Bitcoin circular economy driven by the community.
+It is not a theoretical framework.
+It is a practical model based on real-world implementation, continuous iteration, and measurable adoption.
 
-Our mission is to empower the population through practical Bitcoin education as:
+This toolkit exists so other communities around the world can study, adapt, and implement their own version of a Bitcoin circular economy.
 
-- A medium of exchange  
-- A unit of account  
-- A reliable store of value  
+The goal is not to copy and paste.
+The goal is to adapt intelligently.
 
-We believe this can be the beginning of a transformative future for Berlín.
+---
 
+## Why This Model Works
 
-# Our Philosophy
+Bitcoin adoption does not happen through technology alone.
+It requires:
 
-Bitcoin Berlín began as a community-driven movement with a clear vision: to promote Bitcoin adoption while fostering educational, economic, and social development among its residents.
+Education
+Trust
+Consistent presence
+Community integration
+Simple tools
+Clear incentives
 
-From the beginning, the project was not limited to technological adoption. It was conceived as a process of community transformation based on:
+The Bitcoin Berlín model combines education, merchant adoption, tourism flow, youth development, and structured community engagement into one interconnected ecosystem.
 
-- Knowledge  
-- Trust  
-- Continuous support  
+Each component reinforces the others.
 
-Education is the heart of the movement and the engine that sustains every initiative.
+---
 
+## Core Pillars of the Model
 
-# Proof of Work  
-## Education and Real Adoption
+1. Education First  
+Long-term adoption begins with understanding.  
+Workshops, school programs, community classes, and advanced training form the base layer.
 
-Our goal is for Bitcoin to become part of everyday life in Berlín: merchants, students, organizations, and families.
+2. Merchant Adoption  
+Real circular flow requires real businesses accepting Bitcoin.  
+Onboarding is structured, simple, and supported.
 
-Impact:
+3. Community Integration  
+Adoption grows through trust and consistent engagement.
 
-- More than 175 merchants accepting Bitcoin  
-- Continuous education and personalized support  
-- Simple tools to facilitate adoption  
-- Active presence on BTC Map  
+4. Tourism as Liquidity Injection  
+Visitors bring sats into the local economy, strengthening merchant participation.
 
-Adoption was not imposed. It was built through trust and consistent daily work.
+5. Youth Development  
+Programs like Bitcoin University create long-term sustainability by preparing the next generation.
 
+6. Replication Framework  
+Expansion is done carefully, documenting processes and adapting to local realities.
 
-# Education in All Its Forms
+---
 
-Bitcoin is taught in practice, not only in theory.
+## How to Use This Repository
 
-- Educational gatherings at the community center  
-- Bitcoin education for more than 1,000 high school students  
-- Participation in community events as invited speakers  
-- Presence at cultural festivals and local events  
-- Open community meetings  
+This repository is structured in modular sections:
 
+01 – Model Overview  
+02 – Education  
+03 – Merchant Adoption  
+04 – Community Engagement  
+05 – Tourism Model  
+06 – Expansion  
+07 – Metrics & Impact  
+08 – Templates  
+09 – Assets  
 
-# Academic Formation and Youth Development
+Each section contains documentation, SOPs, and templates that can be adapted to your community.
 
-The center actively promotes academic development, especially among students from the National Institute of Berlín.
+Start with:
 
-Scholarship programs have been implemented for English language learning, recognizing that English proficiency opens opportunities in technology, tourism, professional development, and global connection.
+01-model-overview  
+Then move to education and merchant adoption.
 
-Every Thursday, open English conversation sessions are held where students and visitors practice fluency in a collaborative and inclusive environment.
+Do not try to implement everything at once.
 
+---
 
-# The Bitcoin Center  
-## Community Hub
+## Implementation Philosophy
 
-Today, the Bitcoin Center is open daily and serves as the operational heart of the project.
+There is no universal blueprint.
 
-Free Bitcoin education:
+Every town, city, and region has different:
 
-- Introductory classes  
-- Practical workshops  
-- Community meetings  
-- Complementary training  
+Economic realities  
+Cultural dynamics  
+Regulatory frameworks  
+Technological readiness  
 
-Additional training:
+This toolkit documents what worked in Berlín, El Salvador.
+Communities should adapt the framework according to their context.
 
-- English classes  
-- Business education for merchants  
-- Service quality improvement  
+Small, consistent steps outperform aggressive expansion.
 
+---
 
-# Podcast Studio
+## Who This Toolkit Is For
 
-A dedicated space for Bitcoin conversations, interviews, documentation of local experiences, and knowledge sharing.
+Community leaders  
+Bitcoin educators  
+Local organizers  
+Grassroots initiatives  
+Circular economy builders  
+Foundations supporting adoption  
 
-The center amplifies the impact of the educational mission and strengthens the local ecosystem.
+If you are building long-term, not short-term hype, this is for you.
 
+---
 
-# Community Initiatives
+## Metrics and Transparency
 
-Sustainable Bitcoin adoption requires trust, proximity, and active participation.
+The model is based on:
 
-We promote spaces and initiatives that strengthen the community and facilitate the educational process.
+Real merchant onboarding  
+Documented educational programs  
+Active community meetups  
+Measurable economic circulation  
 
+Metrics and tracking templates are included in the 07-metrics-and-impact section.
 
-## Monday Meetings
+---
 
-Every Monday, an open space is created to study key Bitcoin concepts, discuss circular economy principles, welcome tourists and residents, and promote continuous learning.
+## Contributing
 
-These meetings strengthen community trust and consolidate the local network.
+This is an evolving model.
 
+Communities that implement and adapt this framework are encouraged to document improvements and share back.
 
-# Tourism as a Driver of the Circular Economy
+Open collaboration strengthens the ecosystem.
 
-Tourism has become a key method for injecting sats into the local economy.
+---
 
-Events such as:
+## Contact
 
-- Bitcoin Economy Conference  
-- El Salvador Festival  
-- MoE Experience  
+Bitcoin Berlín  
+El Salvador  
 
-Attract visitors from around the world, strengthen local businesses, and position Berlín as a city where a circular economy functions in practice.
-
-
-# Bitcoin University of Berlín
-
-Many talented young people in Berlín finish high school with limited access to higher education. The Bitcoin University of Berlín expands that horizon by offering a free community-based program focused on:
-
-- In-depth Bitcoin education  
-- English language training  
-- Entrepreneurial and technical skills  
-- Financial education and self-custody tools  
-
-The goal is to form the next generation of Bitcoin leaders: individuals capable of actively contributing to their communities, accessing global work opportunities, and multiplying knowledge by teaching others.
-
-This is not only about teaching classes. It is about building local capacity and creating real opportunities for the future.
-
-
-# Post-Graduation Opportunities
-
-The Bitcoin University serves as a launch platform. Upon completing the program, students receive support to continue growing personally, professionally, and economically.
-
-## Remote Work in Bitcoin
-
-Students are supported in accessing remote jobs paid in Bitcoin, enabling them to participate in the global economy without leaving their hometown.
-
-## Internships and Mentorships
-
-Students are connected with companies, startups, and educators within the Bitcoin ecosystem to gain practical experience and professional guidance.
-
-## Advanced Bitcoin Programs
-
-Graduates are encouraged and supported in applying to advanced programs such as Cubo+ and other educational pathways that deepen knowledge and expand professional opportunities.
-
-## Local Leadership
-
-Many of these young individuals will become the next generation of Bitcoin educators, developers, and entrepreneurs, strengthening the ongoing transformation of Berlín and Bitcoin adoption in El Salvador.
-
-
-# Model Expansion  
-## Bitcoin La Laguna
-
-The model is expanding to La Laguna, a mountain town in the northern region of the country.
-
-More than 20 businesses currently accept Bitcoin, and it is possible to pay for food, coffee, lodging, and services with sats.
-
-The focus is on building strong foundations through education, guidance, and Bitcoin tourism.
-
-
-# More Than Bitcoin  
-## Community Building
-
-Bitcoin Berlín continues to evolve as a circular economy model based on:
-
-- Education  
-- Technological adoption  
-- Participation  
-- Collaboration  
-
-Its purpose is to foster comprehensive and sustainable development through Bitcoin.
-
-Since its inception, the commitment has remained constant:
-
-Educate. Serve. Build community.
+Building education-driven circular economies.
